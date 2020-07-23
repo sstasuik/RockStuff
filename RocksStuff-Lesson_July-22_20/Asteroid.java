@@ -1,19 +1,23 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Asteroid here.
+ * The Asteroid is a class commonly found in space. Asteroids can be damaging to the spaceships class when the two classes collide, completely removing them from space.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Shaun Stasuik
+ * Date: July 23 2020
+ * Version 1
  */
+
 public class Asteroid extends Creations
 {
     /**
-     * Act - do whatever the Alligator wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
+     * Act - do whatever the Asteroid wants to do. This method is called whenever the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act() 
     {
+        /**
+         * The Asteroid will move by 5 pixels across space.
+         */
         move(5);
         if (Greenfoot.getRandomNumber(100) < 10)
         {
