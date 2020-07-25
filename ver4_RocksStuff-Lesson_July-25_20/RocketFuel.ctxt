@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RocketFuel
+comment0.text=\r\n\ RocketFuel\ is\ in\ the\ world\ to\ fuel\ the\ Rocket\ as\ it\ travels\ through\ space\ while\ avoiding\ Asteroids.\r\n\ \r\n\ Shaun\ Stasuik\r\n\ Date\:July\ 25\ 2020\r\n\ Version\ 4\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ GasCan\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2
