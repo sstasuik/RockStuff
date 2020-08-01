@@ -4,8 +4,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * RocketFuel is in the world to fuel the Rocket as it travels through space while avoiding Asteroids.
  * 
  * Shaun Stasuik
- * Date:July 24 2020
- * Version 3
+ * Date:July 25 2020
+ * Version 4
  */
 public class RocketFuel extends Actor
 {

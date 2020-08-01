@@ -4,11 +4,11 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * The Asteroid is a class commonly found in space. Asteroids can be damaging to the rocket class when the two classes collide, completely removing them from space.
  * 
  * Shaun Stasuik
- * Date: July 24 2020
- * Version 3
+ * Date: July 25 2020
+ * Version 4
  */
 
-public class Asteroid extends Creations
+public class Asteroid extends Creation
 {
     /**
      * Act - do whatever the Asteroid wants to do. This method is called whenever the 'Act' or 'Run' button gets pressed in the environment.

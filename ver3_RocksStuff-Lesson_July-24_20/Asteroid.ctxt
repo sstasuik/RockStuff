@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Asteroid
-comment0.text=\r\n\ The\ Asteroid\ is\ a\ class\ commonly\ found\ in\ space.\ Asteroids\ can\ be\ damaging\ to\ the\ rocket\ class\ when\ the\ two\ classes\ collide,\ completely\ removing\ them\ from\ space.\r\n\ \r\n\ Shaun\ Stasuik\r\n\ Date\:\ July\ 24\ 2020\r\n\ Version\ 3\r\n
+comment0.text=\r\n\ The\ Asteroid\ is\ a\ class\ commonly\ found\ in\ space.\ Asteroids\ can\ be\ damaging\ to\ the\ rocket\ class\ when\ the\ two\ classes\ collide,\ completely\ removing\ them\ from\ space.\r\n\ \r\n\ Shaun\ Stasuik\r\n\ Date\:\ July\ 25\ 2020\r\n\ Version\ 4\r\n
 comment1.params=
 comment1.target=void\ act()
 comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Asteroid\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
