@@ -18,7 +18,7 @@ public class Asteroid extends Creation
         /**
          * The Asteroid will move by 5 pixels across space.
          */
-        move(5);
+        move(15);
         RandomTurn();
         WorldEdge();
         DestroyRocket();
